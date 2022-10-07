@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1648748754 source:c:\users\zero\desktop\employee management application_new_1\main.cpp
+	<iostream>
+	"Staff.h"
+	"Project.h"
+
+1648741757 source:c:\users\zero\desktop\employee management application_new_1\src\staffmember.cpp
+	"StaffMember.h"
+
+1648741547 c:\users\zero\desktop\employee management application_new_1\include\staffmember.h
+	<iostream>
+	<string>
+	"Department.h"
+
+1648646217 source:c:\users\zero\desktop\employee management application_new_1\src\department.cpp
+	"Department.h"
+
+1648646217 c:\users\zero\desktop\employee management application_new_1\include\department.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1648646562 source:c:\users\zero\desktop\employee management application_new_1\src\employee.cpp
+	"Employee.h"
+
+1648650799 c:\users\zero\desktop\employee management application_new_1\include\employee.h
+	<iostream>
+	<string>
+	"StaffMember.h"
+
+1648650849 source:c:\users\zero\desktop\employee management application_new_1\src\volunteer.cpp
+	"Volunteer.h"
+
+1648650644 c:\users\zero\desktop\employee management application_new_1\include\volunteer.h
+	<iostream>
+	<string>
+	"StaffMember.h"
+
+1648652149 source:c:\users\zero\desktop\employee management application_new_1\src\commissionemployee.cpp
+	"CommissionEmployee.h"
+
+1648651907 c:\users\zero\desktop\employee management application_new_1\include\commissionemployee.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1648653856 source:c:\users\zero\desktop\employee management application_new_1\src\hourlyemployee.cpp
+	"HourlyEmployee.h"
+
+1648653856 c:\users\zero\desktop\employee management application_new_1\include\hourlyemployee.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1648664392 c:\users\zero\desktop\employee management application_new_1\include\salaryemployee.h
+	<iostream>
+	<string>
+	"Employee.h"
+
+1648663858 source:c:\users\zero\desktop\employee management application_new_1\src\salaryemployee.cpp
+	"SalaryEmployee.h"
+
+1648664392 source:c:\users\zero\desktop\employee management application_new_1\src\executiveemployee.cpp
+	"ExecutiveEmployee.h"
+
+1648664392 c:\users\zero\desktop\employee management application_new_1\include\executiveemployee.h
+	<iostream>
+	<string>
+	"SalaryEmployee.h"
+
+1648742368 source:c:\users\zero\desktop\employee management application_new_1\src\staff.cpp
+	"Staff.h"
+
+1648742367 c:\users\zero\desktop\employee management application_new_1\include\staff.h
+	"CommissionEmployee.h"
+	"HourlyEmployee.h"
+	"SalaryEmployee.h"
+	"StaffMember.h"
+	"Employee.h"
+	"Volunteer.h"
+	"ExecutiveEmployee.h"
+
+1648746858 source:c:\users\zero\desktop\employee management application_new_1\src\budget.cpp
+	"Budget.h"
+
+1648745629 c:\users\zero\desktop\employee management application_new_1\include\budget.h
+	<iostream>
+
+1648747644 source:c:\users\zero\desktop\employee management application_new_1\src\project.cpp
+	"Project.h"
+
+1648747631 c:\users\zero\desktop\employee management application_new_1\include\project.h
+	"Employee.h"
+	<iostream>
+	"Budget.h"
+
